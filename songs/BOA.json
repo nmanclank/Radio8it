@@ -1,0 +1,5397 @@
+[
+    {
+        "Frequency": 246.94,
+        "StartMs": 0,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 0,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 913,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 913,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 1043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 1043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 1173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 1173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 1304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 1304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 1434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 1434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 1565,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 1565,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 1695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 1695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 1826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 1826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 1956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 1956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 2086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 2086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 2217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 2217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 2347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 2347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 2478,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 2478,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 2608,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 2608,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 2739,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 2739,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 2869,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 2869,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 2999,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 2999,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 3130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 3130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 3260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 3260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 3391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 3391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 3521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 3521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 3652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 3652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 3782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 3782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 3913,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 3913,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 4043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 4043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 4173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 4173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 4304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 4304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 4434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 4434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 4565,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 4565,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 4695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 4695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 4826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 4826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 4956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 4956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 5086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 5086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 5217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 5217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 5347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 5347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 5478,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 5478,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 5608,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 5608,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 5739,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 5739,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 5869,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 5869,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 5999,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 5999,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 6130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 6130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 6260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 6260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 6391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 6391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 6521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 6521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 6652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 6652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 6782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 6782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 6913,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 6913,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 7043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 7043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 7173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 7173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 7304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 7304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 7434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 7434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 7565,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 7565,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 7695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 7695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 7826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 7826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 7956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 7956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 8086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 185.0,
+        "StartMs": 8086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 8217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 8217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 8347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 8347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 8347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 8347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 8347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 8869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 8869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 9130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 9130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 9130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 9260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 9260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 9260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 9391,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 9391,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 9391,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 9391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 9391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 9782,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 9782,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 9782,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 9913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 9913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 10173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 10173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 10173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 10434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 10434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 10434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 10434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 10434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 10956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 10956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 11217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 11217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 11217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 11347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 11347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 11347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 11478,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 11478,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 11478,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 11478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 11478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 11869,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 11869,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 11869,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 11999,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 11999,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 12260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 12260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 12260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 12521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 12521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 12521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 12521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 12521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 13043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 13043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 13304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 13304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 13304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 13434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 13434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 13434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 13565,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 13565,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 13565,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 13565,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 13565,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 13956,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 13956,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 13956,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 14086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 14086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 14347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 14347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 14347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 14608,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 14608,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 14608,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 14608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 14608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 14999,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 14999,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 14999,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 15130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 15130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 15391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 15391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 15391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 15652,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 15652,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 15652,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 15652,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 15652,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 16043,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 16043,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 16043,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 58.27,
+        "StartMs": 16173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 16173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 16434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 16434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 16434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 261.63,
+        "StartMs": 16695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 65.41,
+        "StartMs": 16695,
+        "DurationMs": 2086
+    },
+    {
+        "Frequency": 130.81,
+        "StartMs": 16695,
+        "DurationMs": 2086
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 16826,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 16956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 261.63,
+        "StartMs": 17086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 17217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 17347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 261.63,
+        "StartMs": 17478,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 17608,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 17739,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 261.63,
+        "StartMs": 17869,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 17999,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 18130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 261.63,
+        "StartMs": 18260,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 18391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 18521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 261.63,
+        "StartMs": 18652,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 18782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 18782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 18782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 18782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 19043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 19043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 19043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 19043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 19304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 554.37,
+        "StartMs": 19304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 19304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 19304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 19565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 554.37,
+        "StartMs": 19565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 19565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 19565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 19826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 19826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 19826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 19826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 20086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 20086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 20086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 20086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 20347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 554.37,
+        "StartMs": 20347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 20347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 20347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 20608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 554.37,
+        "StartMs": 20608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 20608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 20608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 20869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 21130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 21391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 21391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 21652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 21652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 21913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 21913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 21913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 22173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 22434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 22434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 22434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 22434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 22695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 22956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 22956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 22956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 23217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 23478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 23478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 23478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 23739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 23739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 23739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 23999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 24260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 24260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 24260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 24521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 24782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 24782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 24782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 25043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 25043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 25043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 25304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 25565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 25565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 25565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 25826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 25826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 25826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 26086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 26347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 26347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 26347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 26608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 26869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 26869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 26869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 27130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 27130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 27130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 27391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 27652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 27652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 27652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 27913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 27913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 27913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 28173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 28434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 28434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 28434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 28695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 28956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 29217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 29478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 29739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 29739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 29999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 30260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 30260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 30260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 30521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 30782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 30782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 30782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 31043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 31304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 31304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 31565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 31826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 31826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 31826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 32086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 32347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 32347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 32347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 32608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 32869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 32869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 32869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 33130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 33391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 33391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 33391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 33652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 33913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 33913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 33913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 34173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 34434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 34434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 34434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 34695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 34956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 34956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 34956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 35217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 35478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 35478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 35478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 35739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 35999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 35999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 35999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 36260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 36260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 36260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 36521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 36782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 36782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 36782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 37043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 37043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 37173,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 37304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 37304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 37434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 37565,
+        "DurationMs": 2086
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 37565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 37826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 38086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 38347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 38608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 38869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 39130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 39391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 39652,
+        "DurationMs": 1565
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 39652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 39913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 40173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 40434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 40695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 40956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 41217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 41217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 41478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 41739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 41739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 41999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 42260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 42260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 42521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 42782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 42782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 43043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 43043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 43173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 43304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 43434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 43565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 43565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 43826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 43826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 44086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 44086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 44347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 44347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 44608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 44608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 44869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 44869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 45130,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 45130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 45260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 45391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 45521,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 45652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 45652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 45913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 46173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 46434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 46434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 46695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 46956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 46956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 47217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 47217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 47478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 47478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 47739,
+        "DurationMs": 1304
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 47739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 47999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 48260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 48521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 48782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 49043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 49043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 49304,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 49304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 49434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 49565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 49695,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 49826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 49826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 50086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 50086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 50347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 50608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 50608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 50869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 51130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 51130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 51391,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 51391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 51521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 51652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 51782,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 51913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 51913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 52173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 52173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 52434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 52434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 52695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 52695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 52956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 52956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 53217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 53217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 53478,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 53478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 53608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 53739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 53869,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 53999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 53999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 54260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 54521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 54782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 54782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 55043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 55043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 55304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 55304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 55565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 55826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 55826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 56086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 56086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 56347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 56608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 56608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 56869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 57130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 57130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 57391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 57391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 57652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 57652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 57913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 57913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 58173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 58434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 58434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 58695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 58956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 58956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 59217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 59478,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 59478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 59739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 59869,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 59999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 60260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 60260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 60521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 60521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 60782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 61043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 61043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 61304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 61565,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 61565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 61826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 61956,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 62086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 62347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 62347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 62608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 62869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 63130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 63130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 63391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 63652,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 63652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 63913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 64173,
+        "DurationMs": 1565
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 64173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 64434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 64695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 64956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 65217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 65478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 65739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 65739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 65999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 66260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 66521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 66782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 67043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 67304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 67304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 67565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 67565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 67826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 67826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 67826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 68086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 68347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 68347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 68347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 68347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 68608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 68869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 68869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 68869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 69130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 69391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 69391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 69391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 69652,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 69652,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 69652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 69913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 70173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 70173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 70173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 70434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 70695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 70695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 70695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 70956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 70956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 70956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 71217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 71478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 71478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 71478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 71739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 71739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 71739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 71999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 72260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 72260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 72260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 72521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 72782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 72782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 72782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 73043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 73043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 73043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 73304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 73565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 73565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 73565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 73826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 73826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 73826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 74086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 74347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 74347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 74347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 74608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 74869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 75130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 75391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 75652,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 75652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 75913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 76173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 76173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 76173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 76434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 246.94,
+        "StartMs": 76695,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 76695,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 76695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 76956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 77217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 77217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 77478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 77739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 77739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 77739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 77999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 78260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 277.18,
+        "StartMs": 78260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 78260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 78521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 196.0,
+        "StartMs": 78782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 78782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 78782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 79043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 79304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 79304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 79304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 79565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 79826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 79826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 79826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 80086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 80347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 80347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 80347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 80608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 220.0,
+        "StartMs": 80869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 80869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 80869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 81130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 81391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 81391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 81391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 81652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 81913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 81913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 81913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 82173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 82173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 82173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 82434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 233.08,
+        "StartMs": 82695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 82695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 82695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 82956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 82956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 83086,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 83217,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 83217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 83347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 369.99,
+        "StartMs": 83478,
+        "DurationMs": 2086
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 83478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 83739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 83999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 84260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 84521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 84782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 85043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 85304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 329.63,
+        "StartMs": 85565,
+        "DurationMs": 1565
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 85565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 85826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 86086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 86347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 86608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 86869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 87130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 87130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 87391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 87652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 87913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 88173,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 88173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 88434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 88695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 88695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 88956,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 88956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 89086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 89217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 89347,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 89478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 89478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 89739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 89739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 89999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 89999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 90260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 90260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 90521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 90521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 90782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 90782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 91043,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 91043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 91173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 91304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 91434,
+        "DurationMs": 130
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 91565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 91565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 91826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 92086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 92347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 92347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 92608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 987.77,
+        "StartMs": 92869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 92869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 93130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 93391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 93391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 93652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 93913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 94173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 94434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 94434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 94695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 1108.73,
+        "StartMs": 94956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 94956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 95217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 95478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 95478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 95739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 95999,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 95999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 96260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 96521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 96521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 96782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 97043,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 97043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 97304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 97434,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 97565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 97826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 97826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 97826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 98086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 98086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 98086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 98347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 98608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 98608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 98608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 98869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 99130,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 99130,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 99130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 99391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 99521,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 99521,
+        "DurationMs": 391
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 99652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 99913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 99913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 99913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 100173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 100434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 1174.66,
+        "StartMs": 100695,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 100695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 100956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 1318.51,
+        "StartMs": 101217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 101217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 101478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 1108.73,
+        "StartMs": 101739,
+        "DurationMs": 1565
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 101739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 101999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 102260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 102521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 102782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 103043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 103304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 103565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 103826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 104086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 104347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 104608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 104869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 104869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 105130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 105130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 105391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 105391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 105391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 105652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 105913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 105913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 105913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 105913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 106173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 106434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 106434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 106434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 106695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 106956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 106956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 106956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 107217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 107217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 107217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 107478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 107739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 107739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 107739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 107999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 108260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 108260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 108260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 108521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 108521,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 108521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 108782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 109043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 109043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 109043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 109304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 109304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 109304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 109565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 109826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 109826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 109826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 110086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 110347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 110347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 110347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 110608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 110608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 110608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 110869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 111130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 111130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 111130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 111391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 111391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 111391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 111652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 111913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 111913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 111913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 112173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 112434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 112695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 112956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 113217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 113217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 113478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 113739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 554.37,
+        "StartMs": 113739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 113739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 113999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 114260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 114260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 114260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 114521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 114782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 114782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 115043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 115304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 115304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 115304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 115565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 115826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 554.37,
+        "StartMs": 115826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 115826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 116086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 392.0,
+        "StartMs": 116347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 116347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 116347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 116608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 116869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 116869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 116869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 117130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 117391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 117391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 117391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 117652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 117913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 117913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 117913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 118173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 118434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 118434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 118434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 118695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 118956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 118956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 118956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 119217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 119478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 119478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 119478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 119739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 119739,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 119739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 119999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 120260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 120260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 120260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 120521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 120521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 120521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 120782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 121043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 121043,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 121043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 121304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 121565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 121565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 121565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 121826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 121826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 121826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 122086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 122086,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 122086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 122347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 440.0,
+        "StartMs": 122608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 122608,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 146.83,
+        "StartMs": 122608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 122869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 123130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 123130,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 123130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 123391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 123652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 123652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 123652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 123913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 123913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 123913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 69.3,
+        "StartMs": 124173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 124434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 124434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 124434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 466.16,
+        "StartMs": 124695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 124695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 138.59,
+        "StartMs": 124695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 124956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 116.54,
+        "StartMs": 124956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 125217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 125217,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 125217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 125478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 125739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 125739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 125739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 125999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 125999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 125999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 126260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 987.77,
+        "StartMs": 126260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 49.0,
+        "StartMs": 126260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 126521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 126782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 126782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 98.0,
+        "StartMs": 126782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 73.42,
+        "StartMs": 127043,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 127304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 783.99,
+        "StartMs": 127304,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 127304,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 127565,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 127826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 127826,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 127826,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 128086,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 128347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 659.26,
+        "StartMs": 128347,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 55.0,
+        "StartMs": 128347,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 128608,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 587.33,
+        "StartMs": 128869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 739.99,
+        "StartMs": 128869,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 110.0,
+        "StartMs": 128869,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 82.41,
+        "StartMs": 129130,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 129391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 129391,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 129391,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 129652,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 129913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 129913,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 129913,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 130173,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 130434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 130434,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 130434,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 130695,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 130956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 130956,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 130956,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 131217,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 131478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 131478,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 131478,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 131739,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 131999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 131999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 131999,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 132260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 132260,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 132260,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 61.74,
+        "StartMs": 132521,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 293.66,
+        "StartMs": 132782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 493.88,
+        "StartMs": 132782,
+        "DurationMs": 521
+    },
+    {
+        "Frequency": 92.5,
+        "StartMs": 132782,
+        "DurationMs": 260
+    },
+    {
+        "Frequency": 123.47,
+        "StartMs": 133043,
+        "DurationMs": 260
+    }
+]
